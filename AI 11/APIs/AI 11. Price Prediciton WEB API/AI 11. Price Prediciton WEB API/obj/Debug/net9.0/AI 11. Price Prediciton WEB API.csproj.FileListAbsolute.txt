@@ -1,0 +1,37 @@
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\appsettings.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\AI 11. Price Prediciton WEB API.staticwebassets.endpoints.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\AI 11. Price Prediciton WEB API.exe
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\AI 11. Price Prediciton WEB API.deps.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\AI 11. Price Prediciton WEB API.runtimeconfig.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\AI 11. Price Prediciton WEB API.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\AI 11. Price Prediciton WEB API.pdb
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.csproj.AssemblyReference.cache
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.AssemblyInfoInputs.cache
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.AssemblyInfo.cs
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.csproj.CoreCompileInputs.cache
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.sourcelink.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\scopedcss\bundle\AI 11. Price Prediciton WEB API.styles.css
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. P.26375478.Up2Date
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\refint\AI 11. Price Prediciton WEB API.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.pdb
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\AI 11. Price Prediciton WEB API.genruntimeconfig.cache
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\obj\Debug\net9.0\ref\AI 11. Price Prediciton WEB API.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zamanov\Documents\python_ai_FSDM_Oct_24_4_az\AI 11\APIs\AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

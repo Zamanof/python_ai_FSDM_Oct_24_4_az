@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|c:\\users\\zamanov\\documents\\python_ai_fsdm_oct_24_4_az\\ai 11\\apis\\ai 11. price prediciton web api\\ai 11. price prediciton web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|solutionrelative:ai 11. price prediciton web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|c:\\users\\zamanov\\documents\\python_ai_fsdm_oct_24_4_az\\ai 11\\apis\\ai 11. price prediciton web api\\ai 11. price prediciton web api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|solutionrelative:ai 11. price prediciton web api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|c:\\users\\zamanov\\documents\\python_ai_fsdm_oct_24_4_az\\ai 11\\apis\\ai 11. price prediciton web api\\ai 11. price prediciton web api\\dtos\\predictout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|solutionrelative:ai 11. price prediciton web api\\dtos\\predictout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|c:\\users\\zamanov\\documents\\python_ai_fsdm_oct_24_4_az\\ai 11\\apis\\ai 11. price prediciton web api\\ai 11. price prediciton web api\\dtos\\predictin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B79FEE-2222-401A-A0C2-1D837636B9DC}|AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API.csproj|solutionrelative:ai 11. price prediciton web api\\dtos\\predictin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediciton WEB API\\Controllers\\AIController.cs",
+              "ToolTip": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\Controllers\\AIController.cs",
+              "RelativeToolTip": "AI 11. Price Prediciton WEB API\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:18:57.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PredictOut.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\DTOs\\PredictOut.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediciton WEB API\\DTOs\\PredictOut.cs",
+              "ToolTip": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\DTOs\\PredictOut.cs",
+              "RelativeToolTip": "AI 11. Price Prediciton WEB API\\DTOs\\PredictOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:18:01.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PredictIn.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\DTOs\\PredictIn.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediciton WEB API\\DTOs\\PredictIn.cs",
+              "ToolTip": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\DTOs\\PredictIn.cs",
+              "RelativeToolTip": "AI 11. Price Prediciton WEB API\\DTOs\\PredictIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:16:18.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\Program.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediciton WEB API\\Program.cs",
+              "ToolTip": "C:\\Users\\zamanov\\Documents\\python_ai_FSDM_Oct_24_4_az\\AI 11\\APIs\\AI 11. Price Prediciton WEB API\\AI 11. Price Prediciton WEB API\\Program.cs*",
+              "RelativeToolTip": "AI 11. Price Prediciton WEB API\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:06:36.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

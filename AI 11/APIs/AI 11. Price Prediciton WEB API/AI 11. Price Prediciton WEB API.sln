@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI 11. Price Prediciton WEB API", "AI 11. Price Prediciton WEB API\AI 11. Price Prediciton WEB API.csproj", "{A7B79FEE-2222-401A-A0C2-1D837636B9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B79FEE-2222-401A-A0C2-1D837636B9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B79FEE-2222-401A-A0C2-1D837636B9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B79FEE-2222-401A-A0C2-1D837636B9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B79FEE-2222-401A-A0C2-1D837636B9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA013679-9953-4100-8D0B-FF66E7E32A74}
+	EndGlobalSection
+EndGlobal

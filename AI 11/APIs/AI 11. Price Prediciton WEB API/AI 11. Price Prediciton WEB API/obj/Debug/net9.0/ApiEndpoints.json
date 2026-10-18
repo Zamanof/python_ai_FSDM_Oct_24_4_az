@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AI_11._Price_Prediciton_WEB_API.Controllers.AIController",
+    "Method": "Predict",
+    "RelativePath": "api/AI/predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "predict",
+        "Type": "AI_11._Price_Prediciton_WEB_API.DTOs.PredictIn",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
