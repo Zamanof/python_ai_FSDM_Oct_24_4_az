@@ -217,3 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 AI 15/models/*.h5
+AI 15/models/*.h5
